@@ -29,19 +29,16 @@ aabirroy30-boop&theme=chartreuse_dark&hide_border=true" alt="GitHub Streak"/>
       </td>
      <td>
         <img 
-         src="https://github-readme-stats.vercel.app/api?username=
-aabirroy30-boop&theme=blue-green&show_icons=true&hide_border=true&count_private=true&hide=stars,issues&show=prs_merged,prs_merged_percentage&rank_icon=github" alt="GitHub Stats"/>
+         src="https://github-readme-stats.vercel.app/api?username=aabirroy30-boop&theme=blue-green&show_icons=true&hide_border=true&count_private=true&hide=stars,issues&show=prs_merged,prs_merged_percentage&rank_icon=github" alt="GitHub Stats"/>
       </td>
      </tr>
   </table>
   <table>
    <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=
-aabirroy30-boop&theme=chartreuse_dark" alt="GitHub Summarry Card"/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aabirroy30-boop&theme=chartreuse_dark" alt="GitHub Summarry Card"/>
    </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=
-aabirroy30-boop&theme=blue-green&layout=donut&hide_border=true" alt="Top Languages"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aabirroy30-boop&theme=blue-green&layout=donut&hide_border=true" alt="Top Languages"/>
       </td>
 
   </table>
@@ -49,9 +46,7 @@ aabirroy30-boop&theme=blue-green&layout=donut&hide_border=true" alt="Top Languag
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](ttps://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/
-aabir-roy-6738b331b
-) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)(www.linkedin.com/in/aabir-roy-6738b331b)] 
 
 
 ### 🔝 Top Contributed Repo
