@@ -16,27 +16,32 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=aabirroy30&theme=chartreuse-dark&point=bb9af7&line=bb9af7&area=true&area_color=bb9af7&hide_border=true" alt="GitHub Activity Graph"/>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=
+aabirroy30-boop&theme=chartreuse-dark&point=bb9af7&line=bb9af7&area=true&area_color=bb9af7&hide_border=true" alt="GitHub Activity Graph"/>
     </td>
   </tr>
 </table>
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=aabirroy30&theme=chartreuse_dark&hide_border=true" alt="GitHub Streak"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=
+aabirroy30-boop&theme=chartreuse_dark&hide_border=true" alt="GitHub Streak"/>
       </td>
      <td>
         <img 
-         src="https://github-readme-stats.vercel.app/api?username=aabirroy30&theme=blue-green&show_icons=true&hide_border=true&count_private=true&hide=stars,issues&show=prs_merged,prs_merged_percentage&rank_icon=github" alt="GitHub Stats"/>
+         src="https://github-readme-stats.vercel.app/api?username=
+aabirroy30-boop&theme=blue-green&show_icons=true&hide_border=true&count_private=true&hide=stars,issues&show=prs_merged,prs_merged_percentage&rank_icon=github" alt="GitHub Stats"/>
       </td>
      </tr>
   </table>
   <table>
    <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DanX06-lab&theme=chartreuse_dark" alt="GitHub Summarry Card"/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=
+aabirroy30-boop&theme=chartreuse_dark" alt="GitHub Summarry Card"/>
    </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanX06-lab&theme=blue-green&layout=donut&hide_border=true" alt="Top Languages"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=
+aabirroy30-boop&theme=blue-green&layout=donut&hide_border=true" alt="Top Languages"/>
       </td>
 
   </table>
@@ -50,7 +55,8 @@ aabir-roy-6738b331b
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=DanX06-lab&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=
+aabirroy30-boop&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
 
 
 [![](https://visitcount.itsvg.in/api?id=aabirroy30&icon=5&color=0)](https://visitcount.itsvg.in)
@@ -58,4 +64,5 @@ aabir-roy-6738b331b
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aabirroy30&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=
+aabirroy30-boop&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
