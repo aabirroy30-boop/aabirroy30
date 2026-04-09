@@ -16,16 +16,14 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=
-aabirroy30-boop&theme=chartreuse-dark&point=bb9af7&line=bb9af7&area=true&area_color=bb9af7&hide_border=true" alt="GitHub Activity Graph"/>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=aabirroy30-boop&theme=chartreuse-dark&point=bb9af7&line=bb9af7&area=true&area_color=bb9af7&hide_border=true" alt="GitHub Activity Graph"/>
     </td>
   </tr>
 </table>
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=
-aabirroy30-boop&theme=chartreuse_dark&hide_border=true" alt="GitHub Streak"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=aabirroy30-boop&theme=chartreuse_dark&hide_border=true" alt="GitHub Streak"/>
       </td>
      <td>
         <img 
