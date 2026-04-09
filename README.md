@@ -44,7 +44,7 @@
 
 ## 🌐 Connect with Me
 
-[(https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)(www.linkedin.com/in/aabir-roy-6738b331b)] 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/souvik-biswas-aa836a368) [(https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)(www.linkedin.com/in/aabir-roy-6738b331b)] 
 
 
 ### 🔝 Top Contributed Repo
